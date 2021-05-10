@@ -1,5 +1,19 @@
 #수강생번호 : 012-49391235
 
+# 21.05.10
+
+## 1. 개별 프로젝트
+* 조장 확인 프로그램
+  * 무엇
+  * 그림 : pygame (https://digiconfactory.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0-8-%EC%9E%A1%EC%84%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A1%9C%EB%93%9C%EC%99%80-%EC%A1%B0%EC%9E%91%EB%B0%A9%EB%B2%95-PYGAME)
+  * 마우스 키보드 : win32api 라이브러리(https://www.youtube.com/watch?v=3izsuZmct80) pygame (https://devnauts.tistory.com/61)
+* 출석 퇴실 알람
+  * 와이파이가 잡히면 메일받기?
+    * 와이파이 모듈(https://eu4ng.tistory.com/36)
+  * 프로그램으로 만들어서 컴퓨터 열때 알림가기
+
+
+
 # 21.04.29
 
 ## 1. 수업
